@@ -2,4 +2,12 @@ body{
     margin: 0px; 
     padding: 0px; 
     background-color: gray;
+} 
+
+button{  
+    border-radius: 20px; 
+}
+.dark{ 
+    background-color: black; 
+    color: white; 
 }
